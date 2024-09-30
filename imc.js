@@ -1,3 +1,6 @@
+//https://www.programasaudefacil.com.br/calculadora-de-imc
+//https://nav.dasa.com.br/blog/calcular-imc
+
 const prompt = require('prompt-sync')({ sigint: true });
 console.log("====================================");
 const peso = 90;//prompt('Qual seu peso em quilos (Kg)? ');
